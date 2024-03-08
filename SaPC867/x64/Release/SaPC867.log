@@ -1,0 +1,17 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(40,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(44,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(48,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(52,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(56,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(60,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(64,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(68,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TMSwa\source\repos\SaPC867\SaPC867\roster.cpp(72,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 151 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SaPC867.vcxproj -> C:\Users\TMSwa\source\repos\SaPC867\x64\Release\SaPC867.exe
